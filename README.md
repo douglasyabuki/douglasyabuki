@@ -10,7 +10,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
 ### Backend:
-![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=nodedotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%234f5b5b.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23D92D2A.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Deno.js](https://img.shields.io/badge/deno-black.svg?style=for-the-badge&logo=deno&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%234f5b5b.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23D92D2A.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 ### DevOps:
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![Vela](https://img.shields.io/badge/vela-%231F9BFC.svg?style=for-the-badge&logo=vela&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
