@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e293c711-efb3-4151-9b77-56650e7c5caf)## 🌐 Socials:
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/douglas-yabuki)
 
 # 💻 Tech Stack:
