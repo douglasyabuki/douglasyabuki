@@ -1,4 +1,4 @@
-## 🌐 Socials:
+![image](https://github.com/user-attachments/assets/e293c711-efb3-4151-9b77-56650e7c5caf)## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/douglas-yabuki)
 
 # 💻 Tech Stack:
@@ -13,7 +13,7 @@
 ![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Deno.js](https://img.shields.io/badge/deno-black.svg?style=for-the-badge&logo=deno&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%234f5b5b.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23D92D2A.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 ### DevOps:
-![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![Vela](https://img.shields.io/badge/vela-%231F9BFC.svg?style=for-the-badge&logo=vela&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![Vela](https://img.shields.io/badge/vela-%231F9BFC.svg?style=for-the-badge&logo=go-vela&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Pulumi](https://img.shields.io/badge/pulumi-purple.svg?style=for-the-badge&logo=pulumi&logoColor=f26e7e) ![AWS](https://img.shields.io/badge/aws-orange.svg?style=for-the-badge&logo=amazon-web-services&logoColor=#232F3E) ![S3](https://img.shields.io/badge/s3-569A31.svg?style=for-the-badge&logo=amazon-s3&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=douglasyabuki&theme=dark&hide_border=false)<br/>
